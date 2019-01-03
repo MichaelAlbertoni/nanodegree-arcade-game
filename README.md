@@ -4,11 +4,7 @@ frontend-nanodegree-arcade-game
 #Frogger
 
 **Instructions**
-1 - Para jogar os seguintes itens são necessários:
-		- Internet;
-		- Navegador;
-		- Teclado;
 
-2 - O movimento do jogador é realizado por meio das setas do teclado.
+Para vencer o jogo você deverá chegar a água 4 vezes. Para isso, você tem 3 tentativas de atravessar o cenário sem colidir com os inimigos.
 
-3 - O objetivo do game é chegar a água 5 vezes, possuindo 3 tentativas
+1 - O movimento do jogador é realizado por meio das setas do teclado.
